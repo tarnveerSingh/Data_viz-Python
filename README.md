@@ -35,7 +35,7 @@ Column to Visualize (interaction.totalDurationSec/interaction.talkingDurationSec
 2.	Sort the data in ascending order as per the input metrics’ column. In this case, it's interaction.totalDurationSec
 3.	Filter 35 Agents based on least seconds spent on the call values of column.
 4.	Visualize this data on bar graph in an ascending order
-5.	Here I used bar plot.
+5.	Here I used bar graph.
 
 Operation support consideration:
 As our main challenge is to read and process the data file correctly, I have provided the solution using pandas library of python to process the json data properly.
