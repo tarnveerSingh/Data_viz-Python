@@ -8,10 +8,8 @@ Design Assumptions: We have the raw dataset. I will create two visuals from the 
 i)	The first one will be showing the count of unique agents per hour in a selected time frame. 
 ii) Second graph will filter 35 Agents based on least seconds spent on the call values of column on a Bar Graph.
 
-Strategies:
 
-
-
+Designing Decisions:
 #Graph - 1
 
 Steps: 
