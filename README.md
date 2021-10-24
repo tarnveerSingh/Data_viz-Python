@@ -1,9 +1,12 @@
 # Data_viz-Python
 
-#Data format: Json.
-#Data file name: tech_test_3000.json.
-#Data contains: Information about 3000 call records.
-#Samples to work on: Top 2500 records from the data.
+Data format: Json.
+
+Data file name: tech_test_3000.json.
+
+Data contains: Information about 3000 call records.
+
+Samples to work on: Top 2500 records from the data.
 
 Design Assumptions: We have the raw dataset. I have created two visuals from the data. Before that we have to process the data accordingly.
 i)	The first one will be showing the count of unique agents per hour in a selected time frame. 
