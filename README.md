@@ -46,3 +46,18 @@ And to make the visuals as per input, I have input option inside it.
 Issues encountered: There were to main issue that I encountered while doing these 2 visualizations.
 1.	Data Processing: The initial dataset was too much nested in structure. I had to first analyze the structure properly and then extracted the proper data for the visualizations.
 2.	Visualization: Firstly, I tried to use D3.js but as I have not dealt with data visualization in JavaScript/React before I was unable learn D3.js in short time. But in python, there are several manners that I was confident about using different python packages like pandas, matplotlib, seaborn, plotly and plotly express for its interactive feature. Finally, I choose python for visualizing this Data.
+
+
+#Run
+
+1.) Before we plot a graph we need run this particular cell where put input date or/and time that we want accordingly AND it will determine the graph with in accordance to the input later.
+
+#determing based on input start_datetime and end_datetime
+start_datetime=input('Enter Start Date Time (YYYY-MM-DD) & (HH-MM-SS): ')
+end_datetime=input('Enter End Date Time (YYYY-MM-DD) & (HH-MM-SS): ')
+
+2.) To plot the 2nd Graph, we need to run the last cell which takes different options and we have type one of the following options from it that are
+
+( interaction.totalDurationSec / interaction.talkingDurationSec / interaction.onHoldDurationSec / interaction.onMuteDurationSec )
+
+and it will plot the graph accordingly.
