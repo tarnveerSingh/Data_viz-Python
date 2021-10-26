@@ -58,6 +58,8 @@ Issues encountered: There were to main issue that I encountered while doing thes
 1.) Before we plot a graph we need run this particular cell where put input date or/and time that we want accordingly AND it will determine the graph with in accordance to the input later.
 
 #determing based on input start_datetime and end_datetime
+
+
 start_datetime=input('Enter Start Date Time (YYYY-MM-DD) & (HH-MM-SS): ')
 end_datetime=input('Enter End Date Time (YYYY-MM-DD) & (HH-MM-SS): ')
 
