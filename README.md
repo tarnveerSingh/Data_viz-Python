@@ -61,6 +61,7 @@ Issues encountered: There were to main issue that I encountered while doing thes
 
 
 start_datetime=input('Enter Start Date Time (YYYY-MM-DD) & (HH-MM-SS): ')
+
 end_datetime=input('Enter End Date Time (YYYY-MM-DD) & (HH-MM-SS): ')
 
 2.) To plot the 2nd Graph, we need to run the last cell which takes different options and we have type one of the following options from it that are
