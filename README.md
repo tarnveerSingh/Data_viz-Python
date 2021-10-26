@@ -50,7 +50,7 @@ And to make the visuals as per input, I have input option inside it.
 
 Issues encountered: There were to main issue that I encountered while doing these 2 visualizations.
 1.	Data Processing: The initial dataset was too much nested in structure. I had to first analyze the structure properly and then extracted the proper data for the visualizations.
-2.	Visualization: Firstly, I tried to use D3.js but as I have not dealt with data visualization in JavaScript/React before I was unable learn D3.js in short time. But in python, there are several manners that I was confident about using different python packages like pandas, matplotlib, seaborn, plotly and plotly express for its interactive feature. Finally, I choose python for visualizing this Data.
+2.	Visualization: Firstly, I tried to use D3.js but as I have not dealt with data visualization in JavaScript/React before I was unable learn D3.js in short time. But in python, there are several manners that I'm  confident about using different python packages like pandas, matplotlib, seaborn, plotly and plotly express for its interactive feature. Finally, I choose python for visualizing this Data.
 
 
 #Run
